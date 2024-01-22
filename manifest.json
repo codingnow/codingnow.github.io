@@ -1,6 +1,6 @@
 {
-    "name": "alpha_golf_web",
-    "short_name": "alpha_golf_web",
+    "name": "Golf Game",
+    "short_name": "Golf Game",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
