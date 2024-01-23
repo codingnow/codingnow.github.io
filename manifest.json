@@ -1,6 +1,6 @@
 {
-    "name": "Golf Game",
-    "short_name": "Golf Game",
+    "name": "Course Samples",
+    "short_name": "Course Samples",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
