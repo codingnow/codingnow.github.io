@@ -40728,7 +40728,7 @@ s.ok=A.a([B.fP,B.fQ,B.kI,B.kD,B.kX,B.lc,B.kw,B.kl,B.kV,B.ks,B.kQ,B.kU,B.kC,B.kk,
 s.dx=A.HM(!1,new A.ads(s),null,1,B.dr,B.cD,s.gcO()[s.ga4()-1].a)
 s.dy.push(s.gcO()[s.ga4()-1])
 s.bf()},
-T(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=c.p2,a0=t.E,a1=A.Ji(new A.iW(B.Aq,A.ajg(A.a([A.amQ(A.ku(a===$?c.p2="Pebble Beach Golf Links - Par 3":a,B.ie,b)),B.JS],a0),B.G9,B.bZ),b),40,293),a2=A.Dy(A.a([A.aix(B.AZ,!1,new A.ad6(c)),B.i3,A.aix(B.B_,!1,new A.ad7(c))],a0),B.fD,B.G8)
+T(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=c.p2,a0=t.E,a1=A.Ji(new A.iW(B.Aq,A.ajg(A.a([A.amQ(A.ku(a===$?c.p2="Vietnam Country Club West":a,B.ie,b)),B.JS],a0),B.G9,B.bZ),b),40,293),a2=A.Dy(A.a([A.aix(B.AZ,!1,new A.ad6(c)),B.i3,A.aix(B.B_,!1,new A.ad7(c))],a0),B.fD,B.G8)
 a=c.e
 if(a===$)a=c.e=new A.i6()
 s=c.d
@@ -76908,7 +76908,7 @@ B.wF=new A.of(B.h,0,B.p,B.h)
 B.Pl=new A.Kw(0,"up")
 B.Pm=new A.r2(0,0)
 B.Pn=new A.r2(-2,-2)
-B.Pp=new A.r4("768","Pebble Beach Golf Links - Par 3")
+B.Pp=new A.r4("31355","Vietnam Country Club West")
 B.af=new A.KX(0,"forward")
 B.dz=new A.KX(1,"reverse")
 B.Pq=new A.yU(0,"checkbox")
