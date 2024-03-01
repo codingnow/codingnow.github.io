@@ -1,6 +1,14 @@
 {
     "clubs": [
         {
+            "id": "34289",
+            "QiuChang": "Hirono Golf Club *JP 廣野ゴルフ倶楽部"
+        },
+        {
+            "id": "33080",
+            "QiuChang": "Ceragio Country Club Cera *KR 세라지오CC 세라"
+        },
+        {
             "id": "23336",
             "QiuChang": "St Andrews Links Old"
         },
