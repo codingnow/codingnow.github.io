@@ -1,64 +1,8 @@
 {
     "clubs": [
         {
-            "id": "1",
-            "QiuChang": "Pilar Golf Club Colorada"
-        },
-        {
-            "id": "2",
-            "QiuChang": "Pilar Golf Club Azul"
-        },
-        {
-            "id": "3",
-            "QiuChang": "San Andr\u00e9s G.C."
-        },
-        {
-            "id": "4",
-            "QiuChang": "Royal Melbourne G.C. - East"
-        },
-        {
-            "id": "5",
-            "QiuChang": "Royal Melbourne G.C. - West"
-        },
-        {
-            "id": "6",
-            "QiuChang": "Port Victoria Golf Club"
-        },
-        {
-            "id": "7",
-            "QiuChang": "Royal Adelaide G.C."
-        },
-        {
-            "id": "8",
-            "QiuChang": "Sandy Golf Links"
-        },
-        {
-            "id": "9",
-            "QiuChang": "Kingston Heath G.C."
-        },
-        {
-            "id": "10",
-            "QiuChang": "Barnbougle Dunes G.C."
-        },
-        {
-            "id": "11",
-            "QiuChang": "New South Wales G.C."
-        },
-        {
-            "id": "12",
-            "QiuChang": "Itanhanga Golf Club 1-9-19-27"
-        },
-        {
-            "id": "13",
-            "QiuChang": "Hamilton Golf & C.C- East-West"
-        },
-        {
             "id": "14",
             "QiuChang": "St Georges Golf & C.C."
-        },
-        {
-            "id": "15",
-            "QiuChang": "Golf Club Montreux"
         },
         {
             "id": "16",
@@ -89,24 +33,12 @@
             "QiuChang": "Mission Hills Golf Club Olazabal"
         },
         {
-            "id": "23",
-            "QiuChang": "Mission Hills Golf Club Annika"
-        },
-        {
             "id": "24",
             "QiuChang": "Mission Hills Golf Club Rose-Poulter"
         },
         {
             "id": "25",
             "QiuChang": "Shanghai Sheshan Golf Course"
-        },
-        {
-            "id": "26",
-            "QiuChang": "Lake Malaren Golf Club Forest"
-        },
-        {
-            "id": "27",
-            "QiuChang": "Lake Malaren Golf Club Masters"
         },
         {
             "id": "28",
@@ -117,16 +49,8 @@
             "QiuChang": "Casa de Campo Teeth of the Dog"
         },
         {
-            "id": "30",
-            "QiuChang": "Club de Golf Valderrama"
-        },
-        {
             "id": "31",
             "QiuChang": "Real Club de Golf Sotogrande"
-        },
-        {
-            "id": "32",
-            "QiuChang": "PGA Golf de Catalunya Stadium"
         },
         {
             "id": "33",
@@ -149,16 +73,8 @@
             "QiuChang": "Golf de Morfontaine Valli\u00e8re"
         },
         {
-            "id": "38",
-            "QiuChang": "\u00c9vian Masters Golf Club"
-        },
-        {
             "id": "39",
             "QiuChang": "Terre Blanche G.C. - Le Riou"
-        },
-        {
-            "id": "40",
-            "QiuChang": "Royal Mougins G.C."
         },
         {
             "id": "41",
@@ -167,10 +83,6 @@
         {
             "id": "42",
             "QiuChang": "Carnoustie Golf Links The Burnside"
-        },
-        {
-            "id": "43",
-            "QiuChang": "Carnoustie Golf Links The Championship"
         },
         {
             "id": "44",
@@ -193,40 +105,12 @@
             "QiuChang": "Royal Birkdale Golf Club"
         },
         {
-            "id": "49",
-            "QiuChang": "Royal Portrush G. C- Dunluce Links"
-        },
-        {
             "id": "50",
             "QiuChang": "Royal Portrush G.C-Valley Links"
         },
         {
-            "id": "51",
-            "QiuChang": "St Andrews Links Balgrove"
-        },
-        {
-            "id": "52",
-            "QiuChang": "St Andrews Links Castle"
-        },
-        {
             "id": "53",
             "QiuChang": "St Andrews Links Eden"
-        },
-        {
-            "id": "54",
-            "QiuChang": "St Andrews Links Jubilee"
-        },
-        {
-            "id": "55",
-            "QiuChang": "St Andrews Links New"
-        },
-        {
-            "id": "56",
-            "QiuChang": "St Andrews Links Old"
-        },
-        {
-            "id": "57",
-            "QiuChang": "St Andrews Links Strathtyrum"
         },
         {
             "id": "58",
@@ -313,24 +197,12 @@
             "QiuChang": "Argentario Golf Club"
         },
         {
-            "id": "79",
-            "QiuChang": "Golf Marco Simone"
-        },
-        {
-            "id": "80",
-            "QiuChang": "Hirono Golf Club *JP \u5ee3\u91ce\u30b4\u30eb\u30d5\u5036\u697d\u90e8"
-        },
-        {
             "id": "81",
             "QiuChang": "Rokkou Kokusai Public Course *JP \u516d\u7532\u56fd\u969b\u30d1\u30d6\u30ea\u30c3\u30af\u30b3\u30fc\u30b9"
         },
         {
             "id": "82",
             "QiuChang": "Rokko Kokusai Course - East *JP \u516d\u7532\u56fd\u969b\u30b4\u30eb\u30d5\u5036\u697d\u90e8\u3000\u6771"
-        },
-        {
-            "id": "83",
-            "QiuChang": "Naruo Golf Club *JP \u9cf4\u5c3e\u30b4\u30eb\u30d5\u5036\u697d\u90e8"
         },
         {
             "id": "84",
@@ -345,60 +217,8 @@
             "QiuChang": "Kasumigaseki Country Club East *JP \u971e\u30f6\u95a2\u30ab\u30f3\u30c4\u30ea\u30fc\u5036\u697d\u90e8 - \u6771"
         },
         {
-            "id": "87",
-            "QiuChang": "Tokyo Golf Club Chichibu *JP \u6771\u4eac\u30b4\u30eb\u30d5\u5036\u697d\u90e8 \u77e5\u3005\u592b"
-        },
-        {
-            "id": "88",
-            "QiuChang": "Tokyo Golf Club Asaka *JP \u6771\u4eac\u30b4\u30eb\u30d5\u5036\u697d\u90e8 \u671d\u971e"
-        },
-        {
-            "id": "89",
-            "QiuChang": "Nine Bridges Resort Creek-Highland *KR \ub098\uc778\ube0c\ub9bf\uc9c0CC \ud06c\ub9ad-\ud558\uc774\ub79c\ub4dc"
-        },
-        {
-            "id": "90",
-            "QiuChang": "Nine Bridges Resort Creek *KR \ub098\uc778\ube0c\ub9bf\uc9c0CC \ud06c\ub9ad"
-        },
-        {
-            "id": "91",
-            "QiuChang": "Nine Bridges Resort Highland *KR \ub098\uc778\ube0c\ub9bf\uc9c0CC \ud558\uc774\ub79c\ub4dc"
-        },
-        {
             "id": "92",
             "QiuChang": "Sky72 Ocean *KR \ud074\ub7fd72cc \uc624\uc158"
-        },
-        {
-            "id": "93",
-            "QiuChang": "Sky72 Classic *KR \ud074\ub7fd72cc \ud074\ub798\uc2dd"
-        },
-        {
-            "id": "94",
-            "QiuChang": "Sky72 Lake *KR \ud074\ub7fd72 \ub808\uc774\ud06c"
-        },
-        {
-            "id": "95",
-            "QiuChang": "Sky72 Golf Club Dream Dunes *KR \ud074\ub7fd72 CC \ub4c4\uc2a4"
-        },
-        {
-            "id": "96",
-            "QiuChang": "Sky72 Sky *KR \ud074\ub7fd72cc \ud558\ub298"
-        },
-        {
-            "id": "97",
-            "QiuChang": "Namseoul Country Club Left *KR \ub0a8\uc11c\uc6b8CC-\ub808\ud504\ud2b8"
-        },
-        {
-            "id": "98",
-            "QiuChang": "Namseoul Country Club -Right *KR \ub0a8\uc11c\uc6b8CC-\ub77c\uc774\ud2b8"
-        },
-        {
-            "id": "99",
-            "QiuChang": "South Cape Owners Club *KR \uc0ac\uc6b0\uc2a4 \ucf00\uc774\ud504CC \uc624\ub108\uc2a4 \ud074\ub7fd"
-        },
-        {
-            "id": "100",
-            "QiuChang": "Jack's Point Golf Course"
         },
         {
             "id": "101",
@@ -407,18 +227,6 @@
         {
             "id": "102",
             "QiuChang": "Kauri Cliffs Golf Club Kauri Cliffs"
-        },
-        {
-            "id": "103",
-            "QiuChang": "Paraparaumu Beach Golf Club"
-        },
-        {
-            "id": "104",
-            "QiuChang": "Sentosa Golf Club Serapong"
-        },
-        {
-            "id": "105",
-            "QiuChang": "Sentosa Golf Club Tanjong"
         },
         {
             "id": "106",
@@ -441,20 +249,8 @@
             "QiuChang": "Amata Spring Country Club"
         },
         {
-            "id": "111",
-            "QiuChang": "Cypress Point Club"
-        },
-        {
             "id": "112",
             "QiuChang": "Fishers Island Club"
-        },
-        {
-            "id": "113",
-            "QiuChang": "Merion G.C. - East"
-        },
-        {
-            "id": "114",
-            "QiuChang": "Merion G.C. - West"
         },
         {
             "id": "115",
@@ -465,24 +261,12 @@
             "QiuChang": "Pebble Beach Golf Links"
         },
         {
-            "id": "117",
-            "QiuChang": "Pebble Beach Golf Links - Par 3"
-        },
-        {
             "id": "118",
             "QiuChang": "Pine Valley G.C. -Short"
         },
         {
-            "id": "119",
-            "QiuChang": "Pine Valley G.C.-Pine Valley"
-        },
-        {
             "id": "120",
             "QiuChang": "Sand Hills G.C."
-        },
-        {
-            "id": "121",
-            "QiuChang": "Shinnecock Hills Golf Club"
         },
         {
             "id": "122",
