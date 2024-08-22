@@ -9488,7 +9488,8 @@ asq:function asq(a){this.a=a},
 asa:function asa(a,b){this.a=a
 this.b=b},
 asr:function asr(a){this.a=a},
-as8:function as8(a){this.a=a},
+as8:function as8(a,b){this.a=a
+this.b=b},
 ass:function ass(a){this.a=a},
 aN8(a,b){return new A.afu()},
 Ae:function Ae(a){this.a=a},
@@ -49672,9 +49673,9 @@ P(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="dev.fleaflet.flutter_map.example",h=k.
 if(h===$)h=k.ay=new A.d2()
 s=k.ax
 s===$&&A.b()
-r=A.D7(j,k.CW[0],0,16,B.p9,j,30,1,new A.ash(),new A.asi(k),new A.asj(k),new A.ask(k),new A.asl(k))
+r=A.D7(j,k.CW[0],0,16,B.p9,j,30,15.1,new A.ash(),new A.asi(k),new A.asj(k),new A.ask(k),new A.asl(k))
 q=t.D
-p=A.a([A.lO(j,j,30,0,B.pt,A.kY(),"https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}","unknown",j)],q)
+p=A.a([A.lO(j,j,30,5,B.pt,A.kY(),"https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}","unknown",j)],q)
 if(k.a6){o=A.qv("http://geo.hopapa.cn:20230/geoserver/g_course_240308/wms?",B.b6,B.pz,B.vy,!0,"1.3.0")
 p.push(A.lO(B.nS,new A.asm(),20,0,B.cd,A.kY(),j,i,o))}if(k.gP6()){o=A.qv("http://geo.hopapa.cn:20230/geoserver/b_course/wms?",B.b6,B.pu,B.bD,!0,"1.1.1")
 p.push(A.lO(j,j,1/0,0,B.cd,A.kY(),j,i,o))}p.push(A.PQ(A.a([new A.hU(k.gIT(),B.Ev,40,40,B.u)],t._I),!0))
@@ -49694,13 +49695,10 @@ p=A.cG(A.a([p,A.pj(j,A.bM(j,A.t4(k.gF2()?B.p1:B.p2,B.i,j),B.o,j,j,B.nq,j,j,j,j,B
 o=A.fk(3)
 m=A.aGw(B.cu,1.5)
 return A.EX(A.cb(B.u,A.a([s,new A.bF(B.at,A.bW(A.a([r,B.b4,p,B.b4,A.bM(j,A.aOQ(!0,B.cc,!1,j,!0,B.w,j,A.aSx(),k.aM,j,j,j,j,2,B.GB,B.aj,!0,j,!0,j,!1,k.gF3(),j,j,j,j,j,j,1,j,j,!1,"\u2022",j,new A.asr(k),j,j,j,j,!1,j,!0,j,B.kM,j,j,B.dv,B.cq,j,j,j,j,j,j,B.jx,j,B.AL,j,j,j,j),B.o,j,j,new A.c8(B.i,j,m,o,j,j,B.a3),j,33,j,B.Fz,j,j,j,180)],q),B.aT,B.B,B.p),j)],q),B.w,B.L),j)},
-akY(a){var s,r,q=this
+akY(a){var s
 if(a.length!==0){s=A.a(a.split(","),t.s)
 if(s.length>1){A.ac("locations======== "+A.f(s))
-r=t.k
-if(s.length===2)q.CW=A.a([new A.t(A.fj(s[0]),A.fj(s[1]))],r)
-else q.CW=A.a([new A.t(A.fj(s[0]),A.fj(s[1])),new A.t(A.fj(s[2]),A.fj(s[3]))],r)
-q.M(new A.as8(q))}}},
+this.M(new A.as8(this,s))}}},
 iU(a,b){var s,r,q
 for(s=0,r=0;!1;r=q){q=r+1
 if(this.a8_(b,a[r],a[q]))++s}return B.e.a7(s,2)===1},
@@ -49823,8 +49821,8 @@ A.asr.prototype={
 $1(a){return this.a.akY(a)},
 $S:49}
 A.as8.prototype={
-$0(){var s,r=this.a
-r.D=r.CW[0]
+$0(){var s=this.b,r=this.a,q=t.k
+r.D=(s.length===2?r.CW=A.a([new A.t(A.fj(s[0]),A.fj(s[1]))],q):r.CW=A.a([new A.t(A.fj(s[0]),A.fj(s[1])),new A.t(A.fj(s[2]),A.fj(s[3]))],q))[0]
 s=r.ax
 s===$&&A.b()
 s.Ld(r.gIT(),16)},
