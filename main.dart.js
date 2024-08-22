@@ -49673,7 +49673,7 @@ P(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="dev.fleaflet.flutter_map.example",h=k.
 if(h===$)h=k.ay=new A.d2()
 s=k.ax
 s===$&&A.b()
-r=A.D7(j,k.CW[0],0,16,B.p9,j,30,15.1,new A.ash(),new A.asi(k),new A.asj(k),new A.ask(k),new A.asl(k))
+r=A.D7(j,k.CW[0],0,16,B.p9,j,30,14.5,new A.ash(),new A.asi(k),new A.asj(k),new A.ask(k),new A.asl(k))
 q=t.D
 p=A.a([A.lO(j,j,30,5,B.pt,A.kY(),"https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}","unknown",j)],q)
 if(k.a6){o=A.qv("http://geo.hopapa.cn:20230/geoserver/g_course_240308/wms?",B.b6,B.pz,B.vy,!0,"1.3.0")
