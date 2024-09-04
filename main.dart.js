@@ -43020,7 +43020,7 @@ s=k.ax
 s===$&&A.b()
 r=A.PH(j,k.CW[0],0,16,B.pe,j,30,14.5,new A.at_(),new A.at0(k),new A.at1(k),new A.at3(k),new A.at4(k))
 q=t.D
-p=A.a([A.nm(j,new A.at5(),30,5,B.pz,A.m5(),"https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}","unknown",j)],q)
+p=A.a([A.nm(j,new A.at5(),30,5,B.pz,A.m5(),"https://sz.alphaiot.cn:2015/google2/GSM_240812/{z}/{y}/{x}.png","unknown",j)],q)
 if(k.W){o=A.uI("http://sz.alphaiot.cn:20230/geoserver/g_course_240308/wms?",B.bg,B.Ks,B.vB,!0,"1.3.0")
 p.push(A.nm(B.nY,new A.at6(),20,0,B.cy,A.m5(),j,i,o))}if(k.gO6()){o=A.uI("http://sz.alphaiot.cn:20230/geoserver/b_course/wms?",B.bg,B.pB,B.bU,!0,"1.1.1")
 p.push(A.nm(j,j,1/0,0,B.cy,A.m5(),j,i,o))}p.push(A.aff(A.a([new A.iD(k.gHS(),B.F1,40,40,B.p)],t._I),!0))
